@@ -1,0 +1,9 @@
+services:
+  lambda:
+    image: public.ecr.aws/infrastructure-blocks/docker-typescript-lambda-template
+    build:
+      context: ../
+      args:
+        NODE_VERSION: ${NODE_VERSION:?must be provided}
+      dockerfile: docker/lambda/Dockerfile
+    container_name: docker-typescript-lambda-template
