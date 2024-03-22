@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "skipLibCheck": true,
+    "module": "node16",
+    "outDir": "dist",
+    "strict": true,
+    "target": "esnext",
+    "noEmit": true
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.js",
+    "**/*.cjs",
+    "**/*.mjs",
+    "**/*.json",
+    "**/.eslintrc.cjs",
+    "**/.mocharc.cjs"
+  ],
+  "exclude": [
+    "dist/**/*"
+  ]
+}
