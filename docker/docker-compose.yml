@@ -1,6 +1,6 @@
 services:
   lambda:
-    image: public.ecr.aws/infrastructure-blocks/docker-typescript-lambda-template
+    image: public.ecr.aws/infra-blocks/docker-typescript-lambda-template
     build:
       context: ../
       dockerfile: docker/lambda/Dockerfile
