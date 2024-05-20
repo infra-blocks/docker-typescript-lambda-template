@@ -2,7 +2,7 @@
 [![Build](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/build.yml/badge.svg)](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/build.yml)
 [![Build Image](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/build-image.yml/badge.svg)](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/build-image.yml)
 [![Trigger Update From Template](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/trigger-update-from-template.yml/badge.svg)](https://github.com/infra-blocks/docker-typescript-lambda-template/actions/workflows/trigger-update-from-template.yml)
-[![codecov](https://codecov.io/gh/infra-blocks/docker-typescript-lambda-template/graph/badge.svg?token=0RPDQQFJBA)](https://codecov.io/gh/infra-blocks/docker-typescript-lambda-template)
+[![codecov](https://codecov.io/gh/infra-blocks/docker-typescript-lambda-template/graph/badge.svg?token=XYAKBAEQTP)](https://codecov.io/gh/infra-blocks/docker-typescript-lambda-template)
 
 This template is for git repositories holding AWS Lambda Docker images.
 
